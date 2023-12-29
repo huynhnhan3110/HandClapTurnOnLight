@@ -4,7 +4,7 @@ Bật tắt đèn bằng tiếng vỗ tay sử dụng D1Mini và Module cảm bi
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2Irx8d0fvpw/0.jpg)](https://www.youtube.com/watch?v=2Irx8d0fvpw)
 
 ## Sơ đồ đấu nối
-[Imgur](https://imgur.com/jfihnCk.png)
+[![IMAGE ALT TEXT HERE](https://imgur.com/jfihnCk.png)](https://imgur.com/jfihnCk.png)
 
 ## Code đã đính kèm trong source
 
